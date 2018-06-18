@@ -18,4 +18,8 @@ You should create one R script called run_analysis.R that does the following.
 
 See the run_analysis.R file for details of the above.
 
+Uncomment download and unzip lines to automate download or download source data files before sourcing the script.
+
+Source script, it will take a while and upon finishing the new dataset will be created.
+
 See CodeBook.md regarding the columns in tidy_data.
